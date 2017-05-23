@@ -1,2 +1,2 @@
 # tabs.js
-Makes tabs for your webpage!
+Still gotta do a reaadme. Feel free to make a pullrequest for it ;)
